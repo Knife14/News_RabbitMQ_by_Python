@@ -1,9 +1,14 @@
 数据类型：
 黄金 http://web.juhe.cn/finance/gold/shgold?v=&key=42fafe467e1adb3fc89ab85982d5bc07
+
 新冠疫情统计 https://www.cnblogs.com/horacle/p/13167752.html 丁香园
+
 天气  https://blog.csdn.net/l769440473/article/details/90311725
+
 新闻 http://api.tianapi.com/topnews/index?key=68cbbcecad11235224ded74b30d15927
+
 油价 http://api.tianapi.com/txapi/oilprice/index?key=68cbbcecad11235224ded74b30d15927&prov=%E9%87%8D%E5%BA%86
+
 情话 http://api.tianapi.com/txapi/saylove/index?key=68cbbcecad11235224ded74b30d15927
 
 技术要求：

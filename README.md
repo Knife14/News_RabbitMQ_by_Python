@@ -1,4 +1,5 @@
 数据类型：
+
 黄金 http://web.juhe.cn/finance/gold/shgold?v=&key=42fafe467e1adb3fc89ab85982d5bc07
 
 新冠疫情统计 https://www.cnblogs.com/horacle/p/13167752.html 丁香园
@@ -20,10 +21,3 @@
 生产者：request、re 爬虫数据
 
 消费者：Mysql、MySQLdb 登录注册使用数据库
-
-软件打包：Pyinstaller、embedded？
-
-
-日志：
-
-10.24 完成界面前端基础功能，尚欠缺登录成功后，登录/注册按钮消失，替换显示用户名、退出按钮；

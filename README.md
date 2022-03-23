@@ -12,11 +12,18 @@
 情话 http://api.tianapi.com/txapi/saylove/index?key=68cbbcecad11235224ded74b30d15927
 
 技术要求：
+
 前端界面：pyqt5、matplotlib  界面、数据显示化
+
 消息队列：rabbitMQ 发布 / 订阅模式
+
 生产者：request、re 爬虫数据
+
 消费者：Mysql、MySQLdb 登录注册使用数据库
+
 软件打包：Pyinstaller、embedded？
 
+
 日志：
+
 10.24 完成界面前端基础功能，尚欠缺登录成功后，登录/注册按钮消失，替换显示用户名、退出按钮；
